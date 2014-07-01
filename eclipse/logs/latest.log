@@ -1,0 +1,47 @@
+[12:42:12] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:42:12] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:42:12] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[12:42:12] [main/INFO]: Forge Mod Loader version 7.10.1.1159 for Minecraft 1.7.10 loading
+[12:42:12] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_55, running on Windows 8:amd64:6.2, installed at C:\Program Files\Java\jre7
+[12:42:12] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[12:42:12] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:42:12] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[12:42:12] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:42:12] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:42:12] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:42:12] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[12:42:13] [main/ERROR]: The minecraft jar file:/C:/Users/Brandon/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1159/forgeSrc-1.7.10-10.13.0.1159.jar!/net/minecraft/client/ClientBrandRetriever.class appears to be corrupt! There has been CRITICAL TAMPERING WITH MINECRAFT, it is highly unlikely minecraft will work! STOP NOW, get a clean copy and try again!
+[12:42:13] [main/ERROR]: FML has been ordered to ignore the invalid or missing minecraft certificate. This is very likely to cause a problem!
+[12:42:13] [main/ERROR]: Technical information: ClientBrandRetriever was at jar:file:/C:/Users/Brandon/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1159/forgeSrc-1.7.10-10.13.0.1159.jar!/net/minecraft/client/ClientBrandRetriever.class, there were 0 certificates for it
+[12:42:13] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[12:42:13] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:42:13] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[12:42:13] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[12:42:14] [main/INFO]: Setting user: ForgeDevName
+[12:42:15] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:42:15] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[12:42:15] [Client thread/INFO]: MinecraftForge v10.13.0.1159 Initialized
+[12:42:15] [Client thread/INFO]: Replaced 182 ore recipies
+[12:42:16] [Client thread/INFO]: Completed early MinecraftForge initialization
+[12:42:16] [Client thread/INFO]: Config directory created successfully
+[12:42:16] [Client thread/INFO]: Searching C:\Users\Brandon\Desktop\Transistor Mod\TransistorMod\eclipse\mods for mods
+[12:42:17] [Client thread/INFO]: Forge Mod Loader has identified 3 mods to load
+[12:42:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[12:42:18] [Client thread/INFO]: Processing ObjectHolder annotations
+[12:42:18] [Client thread/INFO]: Found 341 ObjectHolder annotations
+[12:42:18] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[12:42:18] [Client thread/INFO]: Applying holder lookups
+[12:42:18] [Client thread/INFO]: Holder lookups applied
+[12:42:18] [Sound Library Loader/INFO]: Sound engine started
+[12:42:18] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:42:19] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:42:19] [Client thread/INFO]: Forge Mod Loader has successfully loaded 3 mods
+[12:42:19] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[12:42:19] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:42:19] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:42:20] [Sound Library Loader/INFO]: Sound engine started
+[12:42:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[12:42:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[12:42:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[12:42:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[12:42:43] [Client thread/INFO]: Stopping!
